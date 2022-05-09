@@ -1,0 +1,18 @@
+#background{
+    background-image: linear-gradient(rgb(23, 64, 139), rgb(201, 8, 42));
+    color:white ;
+    background-size:cover;
+}
+#top{
+    text-align:center;
+}
+#picture{
+    display:flex;
+    height:300px;
+    width:400px;
+    justify-content:center;
+    justify-self:center;
+    margin:10px 75px;
+    border-radius: 10px;
+    box-shadow: 0px 2.28049px 5.70122px rgba(0, 0, 0, 0.1);
+}
